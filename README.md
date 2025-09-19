@@ -1,7 +1,3 @@
-Here’s a professional GitHub repo description you can use or adapt for your **DatingApp** project:
-
----
-
 # DatingApp 💘
 
 A full-stack **dating application** built with **ASP.NET Core Web API** and **Angular**, showcasing modern web development practices.
@@ -32,7 +28,3 @@ This project serves as a practical implementation of a **full-stack application*
 * Integrate Angular with backend APIs
 * Handle state management and reactive forms in Angular
 * Deploy a cloud-ready full-stack app
-
----
-
-👉 Would you like me to make this **short and concise** for a GitHub README header, or keep it **detailed like above** for a full README?
